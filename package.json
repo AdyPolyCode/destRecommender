@@ -1,0 +1,22 @@
+{
+  "name": "destrecommender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdyPolyCode/destRecommender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdyPolyCode/destRecommender/issues"
+  },
+  "homepage": "https://github.com/AdyPolyCode/destRecommender#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

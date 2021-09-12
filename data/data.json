@@ -1,0 +1,116 @@
+{
+    "A":{
+        "Afghanistan":{
+            "Kabul":[
+                "National Museum of Afghanistan",
+                "Babur Garden",
+                "Daral Aman Palace"
+            ],
+            "Bamyan":[
+                "Buddha of Bamyan",
+                "Zahak Historical Site",
+                "Bamyan Cultural Centre"
+            ]
+        },
+        "Albania":{
+            "Tirana":[
+                "Skanderberg Square",
+                "National History Museum",
+                "Pyramid of Tirana"
+            ],
+            "Berat":[
+                "Berat Castle",
+                "Ethnographic Museum",
+                "Museum Ikon Onufrego"
+            ]
+        },
+        "Algeria":{
+            "Oran":[
+                "Fortaleza de Santa Cruz",
+                "Ahmed Zabana National Museum",
+                "Chapelle Santa Cruz"
+            ],
+            "Tlemcen":[
+                "Cascades El Ourit",
+                "Great Mosque",
+                "Chateau Mashwar"
+            ]
+        }
+    },
+    "B":{
+        "Bolivia":{
+            "Sucre":[
+                "Freedom House",
+                "Cal Orcko",
+                "Glorieta Castle"
+            ],
+            "Potosi":[
+                "National Mint of Bolivia",
+                "Church of Saint Lawrence of Caragngas",
+                "Cerro Rico"
+            ]
+        },
+        "Brazil":{
+            "Salvador":[
+                "Porto da Barra Beach",
+                "Elevador Lacerda",
+                "Mercado Modelo"
+            ],
+            "Brasilia":[
+                "Cathedral of Brasilia",
+                "National Congress",
+                "Juscelino Kubitschek Bridge"
+            ]
+        },
+        "Burma":{
+            "Yangon":[
+                "Shwedagon Pagoda",
+                "Sule Pagoda",
+                "Maha Bandula Park"
+            ],
+            "Mandalay":[
+                "U Bein Bridge",
+                "Kuthodaw Pagoda",
+                "Mahamuni Buddha Temple"
+            ]
+        }
+    },
+    "C":{
+        "Cape Verde":{
+            "Sal":[
+                "Buracona",
+                "Porto Antigo",
+                "Shark Bay"
+            ],
+            "Boa Vista":[
+                "Chaves Beach",
+                "Praia da Chave",
+                "Praia de Santa Monica"
+            ]
+        },
+        "Canada":{
+            "Toronto":[
+                "CN Tower",
+                "Royal Ontario Museum",
+                "Art Gallery of Ontario"
+            ],
+            "Vancouver":[
+                "Stanley Park",
+                "Granville Islan",
+                "Science World"
+            ]
+        },
+        "China":{
+            "Shanghai":[
+                "The Bund",
+                "Yu Garden",
+                "Shanghai Disneyland Park"
+            ],
+            "Chengdu":[
+                "Qingcheng Shan",
+                "Wenshu Yuan Monastery",
+                "Dujiangyan Irrigation System"
+            ]
+        }
+    }
+}
